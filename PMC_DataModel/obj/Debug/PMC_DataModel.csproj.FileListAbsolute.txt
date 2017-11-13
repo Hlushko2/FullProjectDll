@@ -1,0 +1,5 @@
+F:\COI\PMC_DataModel\PMC_DataModel\bin\Debug\PMC_DataModel.dll
+F:\COI\PMC_DataModel\PMC_DataModel\bin\Debug\PMC_DataModel.pdb
+F:\COI\PMC_DataModel\PMC_DataModel\obj\Debug\PMC_DataModel.dll
+F:\COI\PMC_DataModel\PMC_DataModel\obj\Debug\PMC_DataModel.pdb
+F:\COI\PMC_DataModel\PMC_DataModel\obj\Debug\PMC_DataModel.csprojResolveAssemblyReference.cache
